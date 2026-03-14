@@ -829,15 +829,6 @@ Contributions are welcome! Ways to contribute:
 - Build time series forecasting
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-**Dataset License**: Netflix dataset is available on Kaggle for educational and research purposes.
-
----
-
 ## 📧 Contact & Connect
 
 ### Author
